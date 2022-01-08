@@ -1,12 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './app.css';
+import Description from './components/Description/Description';
+import TrialButton from './components/TrialButton/TrialButton';
+import InputForm from './components/InputForm/InputForm';
 
-function App() {
-  return (
+const App = () => ( 
     <div className="App">
-     
+      <Description />
+      <TrialButton />
+      <InputForm />
     </div>
-  );
-}
+);
+
 
 export default App;

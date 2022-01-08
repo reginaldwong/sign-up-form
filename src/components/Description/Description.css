@@ -1,0 +1,16 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-title {
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 55px;
+}
+
+.hero-explanation {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
