@@ -1,6 +1,11 @@
 .hero {
   display: flex;
   flex-direction: column;
+  position: absolute;
+  width: 525px;
+  height: 220px;
+  left: 165px;
+  top: 290px;
 }
 
 .hero-title {

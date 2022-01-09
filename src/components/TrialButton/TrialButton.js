@@ -1,10 +1,11 @@
 import React from 'react'
+import './TrialButton.css'
 
 const TrialButton = () => {
     return (
         <div>
             <button className="trial-button">
-                Try it free 7 days then $20/mo. thereafter
+                <span>Try it free 7 days</span> then $20/mo. thereafter
             </button>
         </div>
     )
