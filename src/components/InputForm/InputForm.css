@@ -33,6 +33,8 @@
 
 .input-container input:focus {
   color: #3d3b48;
+  outline: none !important;
+  border-color: #5e54a4;
 }
 
 .claim-button {
@@ -62,4 +64,5 @@
 
 .terms-services {
   color: #ff7979;
+  text-decoration: none;
 }
