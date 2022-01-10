@@ -37,6 +37,22 @@
   border-color: #5e54a4;
 }
 
+.error-text {
+  color: #ff7979;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 11px;
+  line-height: 16.5px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
 .claim-button {
   background: #38cc88;
   color: #ffffff;
