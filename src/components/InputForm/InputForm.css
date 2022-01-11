@@ -5,13 +5,12 @@
   position: absolute;
   width: 540px;
   height: 474px;
-  left: 735px;
-  top: 205px;
+  left: 1250px;
+  top: 400px;
   background-color: #ffffff;
   border-radius: 10px;
   box-shadow: 0 10px 10px -6px #3e3c49;
-  padding-top: 50px;
-  padding-bottom: 35px;
+  padding-top: 10px;
 }
 
 .input-container input {
