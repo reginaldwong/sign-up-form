@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sign-up-form/static/css/main.4c82d288.css",
+    "main.js": "/sign-up-form/static/js/main.4f3a7de0.js",
+    "static/media/bg-intro-desktop.png": "/sign-up-form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "index.html": "/sign-up-form/index.html",
+    "main.4c82d288.css.map": "/sign-up-form/static/css/main.4c82d288.css.map",
+    "main.4f3a7de0.js.map": "/sign-up-form/static/js/main.4f3a7de0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c82d288.css",
+    "static/js/main.4f3a7de0.js"
+  ]
+}
